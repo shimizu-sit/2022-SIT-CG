@@ -56,40 +56,44 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
 
 ---
 
-# Processingとは？
+# Computer Graphics
 
-- [Processing](https://processing.org/) 
-- ビジュアルデザイン用のプログラミング言語
-- WindowsでもMacOSでも使える
-- すべて無料で使える
-- 初心者がプログラミングを学ぶの良い（と言われている）
-- [MIT Media Lab](https://www.media.mit.edu/)の[Ben Fry](https://twitter.com/ben_fry)と[Casey Reas](https://twitter.com/REAS)によって開発
-- Javaベースのクロスプラットフォームに対応
-- JavaScript版の[p5.js](https://p5js.org/)などの派生プロジェクトもある
+## コンピュータグラフィックス(CG)とは
+- グラフィックス（画像・映像）をコンピュータにプログラムした計算によって自動的に生成すること
 
----
+## この科目で実施しないこと
+- Photoshopなどのソフトを使った写真の編集
+- Illustratorなどのソフトを使った2次元の絵を描く方法
+- 3DCGソフトを使った映像作成（CGアニメ）の制作
 
-# Processingで何ができる？
-
-Processingで何ができるかを知るためには[OpenProcessing](https://openprocessing.org/)を参考にするといいです．
+## この科目で何を学習するか？
+- CGのための理論　：　数学
+- CGのための技術　：　プログラミング
 
 ---
 
-# Procesinng + ○○
+# この科目に必要な知識
 
-- Processing + OpenCV（画像処理ライブラリ）
-- Processing + Arduino（マイコンボード）
-- Processing + Unity（ゲームエンジン）
-- Processing + AR/VR（拡張現実，仮想現実）
-- Processing + Sensor(ジャイロセンサなど)
+## CG = 数学 + プログラミング
+- 数学もプログラミングも苦手な人は頑張りましょう
 
+## 数学
+- 線形代数の知識（行列と写像）
+- 三角関数，3次元座標，ベクトル，行列
+
+## プログラミング
+- 基本的な知識（Java, C, ,C++, C#系）
+- ループ，メソッド（関数），2次元配列，クラス（構造体）
 
 ---
 
-# Processing + LeapMotion + Laser
-卒業研究事例
+# 教科書と参考書
 
-https://youtu.be/IDH3-_iRm6s
+## 教科書
+- 毎回Moodleに資料をアップします．
+
+## 参考書
+- [Processingクリエイティブ・コーディング入門 - コードが生み出す創造表現](https://gihyo.jp/book/2017/978-4-7741-8867-6)
 
 ---
 
@@ -101,7 +105,6 @@ https://youtu.be/IDH3-_iRm6s
 
 電車遅延は対応します
 
-
 ---
 
 # 毎回の講義の進め方
@@ -110,16 +113,6 @@ https://youtu.be/IDH3-_iRm6s
 - 課題：授業時間内に提出
 - 宿題：指定日までに提出
 - 課題・宿題の提出はMoodleを利用します
-
-
----
-
-# 教科書・参考書
-
-- 教科書
-  - 毎回の授業で資料をMoodle上で配布します
-- 参考書
-  - [Processing　クリエイティブ・コーディング入門](https://gihyo.jp/book/2017/978-4-7741-8867-6)
 
 ---
 
