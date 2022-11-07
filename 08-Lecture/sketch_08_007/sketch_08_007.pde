@@ -1,9 +1,15 @@
+import com.jogamp.opengl.GLProfile;
+{
+  GLProfile.initSingleton();
+}
+
 float rx = 0.0; // x軸⽅向の回転を格納するrxの宣⾔と初期化
 float ry = 0.0; // y軸⽅向の回転を格納するryの宣⾔と初期化
 
 void setup() {
   // キャンバスサイズとレンダラーをP3Dに設定
   size(400, 300, P3D);
+  frameRate(60);
   noFill(); // 塗りつぶしをしない設定
 }
 

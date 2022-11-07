@@ -1,3 +1,8 @@
+import com.jogamp.opengl.GLProfile;
+{
+  GLProfile.initSingleton();
+}
+
 float angle = 0.0;
 void setup() {
   size(400, 400, P3D);

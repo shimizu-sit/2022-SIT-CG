@@ -1,3 +1,8 @@
+import com.jogamp.opengl.GLProfile;
+{
+  GLProfile.initSingleton();
+}
+
 int ures = 5; // 縦⽅向の分割数を格納するuresの宣⾔と初期化
 int vres = 5; // 横⽅向の分割数を格納するvresの宣⾔と初期化
 
