@@ -5,7 +5,7 @@ float[] ringSize = new float[NUM]; // righSizeの配列宣言
 int clickNum = 0; // クリック数を管理する変数の宣言と初期化
 
 void setup() {
-  size(600, 600); // キャンバスサイズを(600,600)に設定
+  size(800, 800); // キャンバスサイズを(600,600)に設定
   frameRate(60); // フレームレートを60に設定
   noFill(); // 塗りつぶしをしない設定
   smooth(); // 円を滑らかに描画する設定
