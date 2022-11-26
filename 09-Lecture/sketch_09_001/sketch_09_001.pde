@@ -1,8 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
 // lightのオンオフを管理するswをブール型で宣言し初期化
 boolean sw = false;
 

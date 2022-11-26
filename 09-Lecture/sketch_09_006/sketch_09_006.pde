@@ -1,8 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
 boolean flag = false; // 反射強度のオンオフを切り替えるフラグ
 float angle = 0.0; // 回転角angleの宣言と初期化
 

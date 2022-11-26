@@ -1,8 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
 float angle = 0.0; // 回転角angleをfloat型で宣言と初期化
 int lightFlag = 0; // 指向光の管理用変数lightFlagの宣言と初期化
 float nx = 0.0, ny = 0.0, nz = -1.0; // 指向光の照射方向を管理するnx,ny,nzの宣言と初期化

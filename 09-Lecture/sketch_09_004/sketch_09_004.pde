@@ -1,8 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
 int object = 0; // 描画するものを管理する変数（0=box, 1=sphere)
 float angle = 0.0; // 回転角angleをfloat型で宣言と初期化
 int lightFlag = 0; // 点光源の管理用変数lightFlagの宣言と初期化

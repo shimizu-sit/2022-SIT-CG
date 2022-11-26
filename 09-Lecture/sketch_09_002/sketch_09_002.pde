@@ -1,8 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
 float angle = 0.0; // cubeの回転角angleの変数宣言と初期化
 int lightFlag = 0; // ambientLightのFlagの宣言と初期化
 

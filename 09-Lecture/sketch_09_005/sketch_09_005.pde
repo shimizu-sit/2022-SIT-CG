@@ -1,9 +1,3 @@
-import com.jogamp.opengl.GLProfile;
-{
-  GLProfile.initSingleton();
-}
-
-// 後で修正とコメントを入れる
 float angle = 0.0;
 
 void setup() {
