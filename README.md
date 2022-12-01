@@ -20,6 +20,10 @@ https://github.com/processing/processing4/issues/544
 
 ### 問題解決 
 
+#### 221128
+Processingのバージョンが **4.1.1** になりました． 
+[processing.org](https://processing.org/download) でも **4.1.1** が公開されているので，このバージョンを利用するば問題ないです．
+
 #### 221126
 GitHub上で11月25日にリリースされた4.0.2ではこの問題が修正されています．
 4.0.2は以下からダウンロードできます．
